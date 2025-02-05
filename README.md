@@ -1,7 +1,7 @@
 # chikyu-sdk-nodejs
 
 ## 概要
-ちきゅうのWeb APIをJavaScript(NodeJS)から利用するためのライブラリです。
+GENIEE SFA/CRM(旧ちきゅう)のWeb APIをJavaScript(NodeJS)から利用するためのライブラリです。
   
 ## APIの基本仕様について
 こちらのレポジトリをご覧ください
